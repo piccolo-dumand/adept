@@ -1,0 +1,14 @@
+/**
+ *   \author piccolo
+ *   \date   2015-12-22
+ */
+
+This folder contains the basic types that would be useful for the whole framework. 
+Useful types being defined are:
+	1) date: 		use boost datetime class
+	2) variant: 		use boost variant
+	3) upperstring: 	a case insensitive string, string is automatically converted to uppercase
+	3) typedefs:	
+	
+	
+	
